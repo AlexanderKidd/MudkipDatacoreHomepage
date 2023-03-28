@@ -1,0 +1,13 @@
+body {
+    background-image: -webkit-linear-gradient(top left, #BFE3FF 0%, #005780 100%);
+}
+
+.main-content {
+    text-align: center;
+}
+
+.main-content h1 {
+    color: navy; 
+    text-shadow: 5px 5px 5px #66FFFF; 
+    font-family: Comic Sans MS;
+}
