@@ -68,12 +68,20 @@ body {
     display: inline-block;
     padding: 0 2rem;
     font-size: 2rem;
-    color: white;
+    color: cyan;
 }
 
 /* Tiles */
 
-.mudkip-textarea {
+.mudkip-ascii-textarea {
     width: 425px;
     height: 325px;
+}
+
+.tile-video {
+    height: 315px;
+    width: 420px;
+    overflow: scroll;
+    display: flex;
+    flex-direction: column-reverse;
 }
