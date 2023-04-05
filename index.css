@@ -12,6 +12,10 @@ body {
     font-family: Comic Sans MS;
 }
 
+.mudkip-spin {
+    margin: 5px;
+}
+
 /* Ticker tape */
 
 * {
@@ -68,14 +72,20 @@ body {
     display: inline-block;
     padding: 0 2rem;
     font-size: 2rem;
-    color: cyan;
+    color: #66FFFF;
 }
 
 /* Tiles */
 
+.tile-table {
+    margin-left: auto;  
+    margin-right: auto;  
+    background-color: white;
+}
+
 .mudkip-ascii-textarea {
     width: 425px;
-    height: 325px;
+    height: 315px;
 }
 
 .tile-video {
@@ -84,4 +94,18 @@ body {
     overflow: scroll;
     display: flex;
     flex-direction: column-reverse;
+}
+
+.pokedex-description {
+    line-height: 1.6;
+}
+
+.translation-text {
+    font-size: small;
+}
+
+.pokedex-table {
+    width: 420px;
+    height: 315px;
+    table-layout: fixed;
 }

@@ -49,3 +49,10 @@ Just set your favorite browser's homepage URL to the filepath of `MudkipDataCore
 * Bulma
 * HTML5
 * CSS
+
+## Future TODOs
+* Have spinning gif change to black-green 3D mesh image on-hover
+* Have ticker updated with real Pokémon news/weather APIs
+* "Feeling Lucky" (Feeling Kipper?) button that brings you to the first result/random mudkip-themed page
+* Infinite load of tile content of images/videos/text about mudkips
+* Re-introduce the old spinning mudkip gif somehow...(Gifs for css cursors is tricky)
